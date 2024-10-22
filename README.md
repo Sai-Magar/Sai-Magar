@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Sai Magar**
 
-![Sai Magar Banner](https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Data_Science_AI_Header_2.gif/jcr:content/renditions/cq5dam.web.1200.Data_Science_AI_Header_2.gif)
+![Sai Magar Banner](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 I’m a **Data Science** enthusiast, and currently diving deep into **Deep Learning**. Whether it's crunching numbers or analyzing trends, I'm always eager to take on new challenges. Let's connect and collaborate on innovative projects!
 
