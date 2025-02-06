@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Sai Magar**
 
-![Sai Magar Banner](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+![Sai Magar Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IyNWtsNGM4bXBuYmJkdHU5ODl3Ym1wdTBoOTF5bGNwcDM0c2czeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8D2KdBOaS12nQBjkAv/giphy.gif)
 
 I’m a **Data Science** enthusiast, and currently diving deep into **Deep Learning**. Whether it's crunching numbers or analyzing trends, I'm always eager to take on new challenges. Let's connect and collaborate on innovative projects!
 
@@ -21,11 +21,13 @@ I’m a **Data Science** enthusiast, and currently diving deep into **Deep Learn
 
 | 🚀 Data Science     | 💻 Programming | 🎨 Frontend | 🔧 Tools  |
 |---------------------|----------------|-------------|-----------|
-| Python, R           | Python, C, R   | HTML, CSS   | Power BI   |
-| Pandas, NumPy       | SQL, JavaScript| React.js    | Git, GitHub |
-| Matplotlib, Seaborn |                | Bootstrap   | VS Code   |
-| Scikit-learn, TensorFlow |           |             | Colab,Jupyter   |
-
+| Python, R           | Python, R  | HTML, CSS   | Power BI, Excel |
+| Pandas, NumPy       | SQL        | V0          | GitHub |
+| Matplotlib, Seaborn | C          |             | VS Code, Cursor  |
+| Scikit-learn        |            |             | Colab,Jupyter |
+| Data Visualization  |            |             | Data Cleaning |
+| Web Scraping        |            |             | Statistical Analysis|
+| Machine Learning    |            |             |               |
 ---
 
 ### 📊 **GitHub Stats**
@@ -44,5 +46,6 @@ I’m a **Data Science** enthusiast, and currently diving deep into **Deep Learn
 
 - [LinkedIn](https://www.linkedin.com/in/sai-magar25/)
 - [YouTube](https://www.youtube.com/@Magarsai)
+- [Portfolio](https://sai-magar.github.io/Sai-s-Magar-Portfolio/)
 
 ---
