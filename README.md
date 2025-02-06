@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Sai Magar**
 
-![Sai Magar Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IyNWtsNGM4bXBuYmJkdHU5ODl3Ym1wdTBoOTF5bGNwcDM0c2czeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8D2KdBOaS12nQBjkAv/giphy.gif)
+![Sai Magar Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I’m a **Data Science** enthusiast, and currently diving deep into **Deep Learning**. Whether it's crunching numbers or analyzing trends, I'm always eager to take on new challenges. Let's connect and collaborate on innovative projects!
 
